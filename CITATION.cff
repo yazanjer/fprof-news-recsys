@@ -1,0 +1,19 @@
+cff-version: 1.2.0
+message: "If you use this software or the trained models, please cite it as below."
+title: "F-PROF: Fairness-Aware Post-Ranking Optimisation for Neural News Recommendation"
+authors:
+  - family-names: Esseid
+    given-names: Kusai Mosbah
+    affiliation: "Taylor's University"
+  - family-names: Aljeroudi
+    given-names: Yazan
+    affiliation: "Rachis Systems"
+license: MIT
+repository-code: "https://github.com/yazanjer/fprof-news-recsys"
+keywords:
+  - news recommendation
+  - popularity bias
+  - fairness-aware re-ranking
+  - neural collaborative filtering
+  - MIND
+  - EB-NeRD
