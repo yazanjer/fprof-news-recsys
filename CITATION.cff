@@ -9,6 +9,10 @@ authors:
     given-names: Yazan
     affiliation: "Rachis Systems"
 license: MIT
+identifiers:
+  - type: doi
+    value: 10.5281/zenodo.23021433
+    description: "Trained models and experiment outputs (Zenodo)"
 repository-code: "https://github.com/yazanjer/fprof-news-recsys"
 keywords:
   - news recommendation

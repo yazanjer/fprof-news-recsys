@@ -7,7 +7,8 @@ F-PROF over a grid of fairness weights, and evaluates accuracy and fairness with
 tests. Every table and figure of Chapter 4 of the thesis is generated from its outputs by
 `make_results.py`.
 
-**Trained models and results:** Zenodo, DOI to be added on publication.
+**Trained models and results:** Zenodo, [10.5281/zenodo.23021433](https://doi.org/10.5281/zenodo.23021433)
+(60 weight files, index maps, per-seed results and aggregated summaries).
 
 ## Method in brief
 
