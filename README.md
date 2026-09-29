@@ -9,6 +9,9 @@ tests. Every table and figure of Chapter 4 of the thesis is generated from its o
 
 **Trained models and results:** Zenodo, [10.5281/zenodo.23021433](https://doi.org/10.5281/zenodo.23021433)
 (60 weight files, index maps, per-seed results and aggregated summaries).
+The deposited weights come from a repeat run of this code with the same seeds on a different GPU host;
+GPU training is not bitwise reproducible, so the neural models differ slightly from the thesis tables
+(MF agrees to four decimals; H-NCF/EH-NCF NDCG@5 differs by at most 0.007). The Zenodo record lists the differences.
 
 ## Method in brief
 
